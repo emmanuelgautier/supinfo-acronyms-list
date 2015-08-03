@@ -1,5 +1,14 @@
 # Liste des acronymes de SUPINFO
 
+## Sommaire
+* [Années](#annees)
+* [Cours](#cours)
+* [Examens](#examens)
+* [Certifications](#certifications)
+* [Services](#services)
+* [Divers](#divers)
+* [Obsolètes](#obsoletes)
+
 ## Années
 | Acronyme  | Definition  |
 | :-------: | ----------- |
