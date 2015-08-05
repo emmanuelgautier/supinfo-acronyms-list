@@ -1,5 +1,9 @@
 # Liste des acronymes de SUPINFO
 
+| Acronyme  | Definition            |
+| :-------: | --------------------- |
+| SAL       | SUPINFO Acronyms List |
+
 ## Sommaire
 * [Années](#annees)
 * [Cours](#cours)
@@ -10,13 +14,13 @@
 * [Obsolètes](#obsoletes)
 
 ## Années
-| Acronyme  | Definition  |
-| :-------: | ----------- |
-| ASC1      | |
-| ASC2      | |
-| BSC       | |
-| MSC1      | |
-| MSC2      | |
+| Acronyme  | Definition                |
+| :-------: | ------------------------- |
+| ASC1      | Associate of Science 1    |
+| ASC2      | Associate of Science 1    |
+| BSC       | Bachelor of Science       |
+| MSC1      | Master of Science 1       |
+| MSC2      | Master of Science 2       |
 
 ## Cours
 | Acronyme  | Années    | Definition                                                                |
@@ -41,7 +45,7 @@
 |           | ASC2      | Development Project                                                       |
 | ENG       | ASC1      | English Language                                                          |
 |           | ASC2      | English Language                                                          |
-|           | BCS       | English Language                                                          |
+|           | BSC       | English Language                                                          |
 |           | MSC1      | English Language                                                          |
 |           | MSC2      | English Language                                                          |
 | EPS       | MSC2      | Entrepreneurship & IT                                                     |
@@ -102,7 +106,7 @@
 | MSD       | BSC       | Microsoft Windows 2012 Active Directory                                   |
 | MSE       | MSC1      | Microsoft Exchange Server                                                 |
 | NET       | ASC2      | Microsoft .NET Foundations and Enterprise Applications                    |
-|           | BCS       | Microsoft Web Development and Windows Phone 8                             |
+|           | BSC       | Microsoft Web Development and Windows Phone 8                             |
 |           | MSC1      | MicMicrosoft Metro Apps, SOA, Cloud Computing and SharePoint Development  |
 | OOP       | ASC2      | Object oriented programming                                               |
 | ORC       | ASC1      | SQL Fundamentals                                                          |
@@ -152,6 +156,9 @@
 | Acronyme  | Definition            |
 | :-------: | --------------------- |
 | ED        | English Debate        |
+| T3        | Training The Trainor  |
+| CLM       | Campus Lab Manager    |
+| GLM       | Global Lab Manager    |
 | JPO       | Journée Porte Ouverte |
 
 ## Obsolètes
