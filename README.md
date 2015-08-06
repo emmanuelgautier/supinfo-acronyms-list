@@ -1,6 +1,6 @@
 # Liste des acronymes de SUPINFO
 
-| Acronyme  | Definition            |
+| Acronyme  | Définition            |
 | :-------: | --------------------- |
 | SAL       | SUPINFO Acronyms List |
 
@@ -14,7 +14,7 @@
 * [Obsolètes](#obsoletes)
 
 ## Années
-| Acronyme  | Definition                |
+| Acronyme  | Définition                |
 | :-------: | ------------------------- |
 | ASC1      | Associate of Science 1    |
 | ASC2      | Associate of Science 1    |
@@ -23,7 +23,7 @@
 | MSC2      | Master of Science 2       |
 
 ## Cours
-| Acronyme  | Années    | Definition                                                                |
+| Acronyme  | Année     | Définition                                                                |
 | :-------: | :-------: | ------------------------------------------------------------------------- |
 | ADS       | ASC1      | Algorithmic in python                                                     |
 | AIT       | BSC       | Artificial Intelligence - Functional Programming                          |
@@ -133,12 +133,12 @@
 |           | BSC       | Web Technologies and mobility                                             |
 
 ## Examens
-| Acronyme  | Definition            |
+| Acronyme  | Définition            |
 | :-------: | --------------------- |
 | SOE       | SUPINFO Oral Examen   |
 
 ## Certifications
-| Acronyme  | Definition  |
+| Acronyme  | Définition  |
 | :-------: | ----------- |
 | SCE       | SUPINFO Certified Evaluator   |
 | SCR       | SUPINFO Certified Redactor    |
@@ -146,14 +146,14 @@
 | SCT       | SUPINFO Certified Teacher     |
 
 ## Services
-| Acronyme  | Definition                        |
+| Acronyme  | Définition                        |
 | :-------: | --------------------------------- |
 | SAD       | SUPINFO Academic Department       |
 | SIS       | SUPINFO Informations Service      |
 | SIU       | SUPINFO International University  |
 
 ## Divers
-| Acronyme  | Definition            |
+| Acronyme  | Définition            |
 | :-------: | --------------------- |
 | ED        | English Debate        |
 | T3        | Training The Trainor  |
@@ -162,6 +162,6 @@
 | JPO       | Journée Porte Ouverte |
 
 ## Obsolètes
-| Acronyme  | Definition                                            |
+| Acronyme  | Définition                                            |
 | :-------: | ----------------------------------------------------- |
 | POL       | Pôle (Points accordés dans le cadre des laboratoires) |
