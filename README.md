@@ -155,11 +155,12 @@
 ## Divers
 | Acronyme  | Définition            |
 | :-------: | --------------------- |
-| ED        | English Debate        |
+| ED        | English Debates       |
 | T3        | Training The Trainor  |
 | CLM       | Campus Lab Manager    |
 | GLM       | Global Lab Manager    |
 | JPO       | Journée Porte Ouverte |
+| SDD       | SUPINFO Discovery Day |
 
 ## Obsolètes
 | Acronyme  | Définition                                            |
