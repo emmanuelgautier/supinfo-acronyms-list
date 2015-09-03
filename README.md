@@ -150,19 +150,29 @@
 | :-------: | --------------------------------- |
 | SAD       | SUPINFO Academic Department       |
 | SIS       | SUPINFO Informations Service      |
-| SIU       | SUPINFO International University  |
+| SPR       | SUPINFO Public Relation           |
 
 ## Divers
-| Acronyme  | Définition            |
-| :-------: | --------------------- |
-| ED        | English Debates       |
-| T3        | Training The Trainor  |
-| CLM       | Campus Lab Manager    |
-| GLM       | Global Lab Manager    |
-| JPO       | Journée Porte Ouverte |
-| SDD       | SUPINFO Discovery Day |
+| Acronyme  | Définition                        |
+| :-------: | --------------------------------- |
+| AD        | Assistant de Direction            |
+| BDE       | Bureau Des Etudiants              |
+| CB        | Campus Booster                    |
+| CM        | Campus Manager                    |
+| CLM       | Campus Lab Manager                |
+| ED        | English Debates                   |
+| FP        | Full Professor                    |
+| GLM       | Global Lab Manager                |
+| JPO       | Journée Porte Ouverte             |
+| SDD       | SUPINFO Discovery Day             |
+| SIU       | SUPINFO International University  |
+| SL3       | SUPINFO Low Level Lab             |
+| SP        | Success Point                     |
+| T3        | Training The Trainor              |
+| VC        | Virtual Campus                    |
 
 ## Obsolètes
 | Acronyme  | Définition                                            |
 | :-------: | ----------------------------------------------------- |
 | POL       | Pôle (Points accordés dans le cadre des laboratoires) |
+| STA       | SUPINFO Teacher Assistant                             |
