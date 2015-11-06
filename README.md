@@ -96,13 +96,14 @@
 | MET       | BSC       | ITIL Foundations                                                          |
 |           | MSC1      | Agile Software Development                                                |
 |           | MSC2      | CobiT : Gouvernance, Risks and Compliance                                 |
-| MGT       | ASC1      | IT Management                                                             |
+| MGT       | ASC1      | Enter the digital world                                                   |
 |           | ASC2      | IT Management 2                                                           |
 |           | BSC       | IT Management 3 - Project Management                                      |
 |           | MSC1      | IT Management 4 - Entreprise Applications Software                        |
 |           | MSC2      | IT Management 5 - IT Performance                                          |
 | MOS       | MSC1      | Microsoft SharePoint server Administration                                |
-| MSA       | ASC2      | Microsoft Windows 2012 Administration and Network Infrastructure          |
+| MSA       | ASC1      | Windows Server 2012 Introduction                                          |
+|           | ASC2      | Microsoft Windows 2012 Administration and Network Infrastructure          |
 | MSD       | BSC       | Microsoft Windows 2012 Active Directory                                   |
 | MSE       | MSC1      | Microsoft Exchange Server                                                 |
 | NET       | ASC2      | Microsoft .NET Foundations and Enterprise Applications                    |
