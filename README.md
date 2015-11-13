@@ -26,6 +26,7 @@
 | Acronyme  | Année     | Définition                                                                |
 | :-------: | :-------: | ------------------------------------------------------------------------- |
 | ADS       | ASC1      | Algorithmic in python                                                     |
+|           | ASC2      | Advanced Algorithmics                                                     |
 | AIT       | BSC       | Artificial Intelligence - Functional Programming                          |
 |           | MSC1      | Artificial Intelligence - Logical Programming                             |
 | APL       | BSC       | Objective-C and Cocoa Development                                         |
@@ -97,13 +98,13 @@
 |           | MSC1      | Agile Software Development                                                |
 |           | MSC2      | CobiT : Gouvernance, Risks and Compliance                                 |
 | MGT       | ASC1      | Enter the digital world                                                   |
-|           | ASC2      | IT Management 2                                                           |
+|           | ASC2      | Modelling for Business Analysis                                           |
 |           | BSC       | IT Management 3 - Project Management                                      |
 |           | MSC1      | IT Management 4 - Entreprise Applications Software                        |
 |           | MSC2      | IT Management 5 - IT Performance                                          |
 | MOS       | MSC1      | Microsoft SharePoint server Administration                                |
 | MSA       | ASC1      | Windows Server 2012 Introduction                                          |
-|           | ASC2      | Microsoft Windows 2012 Administration and Network Infrastructure          |
+|           | ASC2      | Microsoft Windows 2012 Administration                                     |
 | MSD       | BSC       | Microsoft Windows 2012 Active Directory                                   |
 | MSE       | MSC1      | Microsoft Exchange Server                                                 |
 | NET       | ASC2      | Microsoft .NET Foundations and Enterprise Applications                    |
