@@ -135,9 +135,14 @@
 |           | BSC       | Web Technologies and mobility                                             |
 
 ## Examens
-| Acronyme  | Définition            |
-| :-------: | --------------------- |
-| SOE       | SUPINFO Oral Examen   |
+| Acronyme  | Définition                   |
+| :-------: | ---------------------------- |
+| SGE       | SUPINFO Graded Exercices     |
+| SMCE      | SUPINFO Multiple Choice exam |
+| SMP       | SUPINFO Mini Projects        |
+| SP        | SUPINFO Projects             |
+| SOE       | SUPINFO Oral Examen          |
+| TP        | Travaux Pratique             |
 
 ## Certifications
 | Acronyme  | Définition  |
@@ -148,11 +153,15 @@
 | SCT       | SUPINFO Certified Teacher     |
 
 ## Services
-| Acronyme  | Définition                        |
-| :-------: | --------------------------------- |
-| SAD       | SUPINFO Academic Department       |
-| SIS       | SUPINFO Informations Service      |
-| SPR       | SUPINFO Public Relation           |
+| Acronyme  | Définition                                           |
+| :-------: | ---------------------------------------------------- |
+| SAD       | SUPINFO Academic Department                          |
+| SCO       | SUPINFO Campus Organisation                          |
+| SIIT      | SUPINFO International Institute of Technology        |
+| SIS       | SUPINFO Informations Service                         |
+| SIUIS     | SUPINFO International University Informations System |
+| SMN       | SUPINFO Management Network                           |
+| SPR       | SUPINFO Public Relation                              |
 
 ## Divers
 | Acronyme  | Définition                        |
@@ -163,6 +172,7 @@
 | CM        | Campus Manager                    |
 | CLM       | Campus Lab Manager                |
 | CLR       | Campus Lab Representative         |
+| CK        | Core Knowledge                    |
 | ED        | English Debates                   |
 | FP        | Full Professor                    |
 | GLM       | Global Lab Manager                |
@@ -179,3 +189,4 @@
 | :-------: | ----------------------------------------------------- |
 | POL       | Pôle (Points accordés dans le cadre des laboratoires) |
 | STA       | SUPINFO Teacher Assistant                             |
+| STC       | SUPINFO Training Center                               |
