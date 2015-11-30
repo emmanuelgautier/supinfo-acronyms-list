@@ -162,6 +162,7 @@
 | CB        | Campus Booster                    |
 | CM        | Campus Manager                    |
 | CLM       | Campus Lab Manager                |
+| CLR       | Campus Lab Representative         |
 | ED        | English Debates                   |
 | FP        | Full Professor                    |
 | GLM       | Global Lab Manager                |
