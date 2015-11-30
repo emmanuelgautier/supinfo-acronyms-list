@@ -170,7 +170,6 @@
 | BDE       | Bureau Des Etudiants              |
 | CB        | Campus Booster                    |
 | CM        | Campus Manager                    |
-| CLM       | Campus Lab Manager                |
 | CLR       | Campus Lab Representative         |
 | CK        | Core Knowledge                    |
 | ED        | English Debates                   |
@@ -187,6 +186,7 @@
 ## Obsolètes
 | Acronyme  | Définition                                            |
 | :-------: | ----------------------------------------------------- |
+| CLM       | Campus Lab Manager                                    |
 | POL       | Pôle (Points accordés dans le cadre des laboratoires) |
 | STA       | SUPINFO Teacher Assistant                             |
 | STC       | SUPINFO Training Center                               |
