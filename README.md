@@ -162,6 +162,7 @@
 | SIUIS     | SUPINFO International University Informations System |
 | SMN       | SUPINFO Management Network                           |
 | SPR       | SUPINFO Public Relation                              |
+| SLA       | SUPINFO LAboratories                                 |
 
 ## Divers
 | Acronyme  | Définition                        |
